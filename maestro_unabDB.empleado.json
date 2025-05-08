@@ -1,0 +1,12 @@
+[{
+  "_id": {
+    "nombre Pelicula": "Eyes Wide Shut",
+    "director": "Stanley Kubrick",
+    "annoLanzamiento": 1999,
+    "actor1": "Tom Cruise",
+    "actor2": "Nicole Kidman",
+    "actor3": "Sydney Pollack",
+    "actor4": "Marie Richardson",
+    "duracionEnMinutos": 159
+  }
+}]
